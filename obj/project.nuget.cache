@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ODohKcYCO15bcuir8AknEYxLEMQwH2QYVr/kV6XB7uo5K+hiXfYkdq/lZXFEkeNixz5/vfH6PBlZyjz+zhMc0Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PRINCE\\Desktop\\Lab 7\\Serialization\\Lab7.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PRINCE\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
